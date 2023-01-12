@@ -14,5 +14,4 @@ Job with Java Developer the approximation 5 years
 - AngularJS
 - Angular
 
-# Thank You so much
 
