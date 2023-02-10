@@ -11,7 +11,7 @@ Job with Java Developer the approximation 5 years
 
 <hr>
 
-### 🖥 Experences at job current 
+### 🖥 Experencies at job current 
 - Spring boot
 - Hibernate
 - Jakarta EE
@@ -22,10 +22,10 @@ Job with Java Developer the approximation 5 years
 
 ### Students
 <div style="display:inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="20" height="20" style="display:inline; margin-left:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" style="display:inline; margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="20" height="20" style="display:inline; margin-left:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width="20" height="20" style="display:inline" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="SPRING FRAMEWORK" width="20" height="20" style="display:inline; margin-left:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TYPESCRIPT" width="20" height="20" style="display:inline; margin-left:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="KAFKA" width="20" height="20" style="display:inline; margin-left:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="20" height="20" style="display:inline" />
  <div>
 
 <hr>
