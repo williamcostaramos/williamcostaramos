@@ -14,15 +14,23 @@ Job with Java Developer the approximation 5 years
 - AngularJS
 - Angular
 
-### Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" heigth="45px" />
+### Tecnologies
+![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
-### statistics
+## Contacts:
+<div>
+<a href="https://instagram.com/williamramos095" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/william-ramos-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+### Statistics
 <div>
 <a href="https://github.com/williamcostaramos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcostaramos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamcostaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
 
 ![snake gif](https://github.com/williamcostaramos/williamcostaramos/blob/output/github-contribution-grid-snake.svg)
 
