@@ -8,7 +8,7 @@ Job with Java Developer the approximation 5 years
 <hr>
 
 ### MY SKILLS 
-![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,java,git,github,discord,bootstrap,html,javascript)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,java,spring,git,github,ts,bootstrap,html,javascript,angular)
 
 ### Connect with me at social networks 🤝
 - instagram : https://www.instagram.com/williamramos095
