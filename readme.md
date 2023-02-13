@@ -7,6 +7,9 @@ Welcome my repository here is you find content about java, spring boot, hibernat
 Job with Java Developer the approximation 5 years 
 <hr>
 
+### MY SKILLS 
+![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,java,git,github,discord,bootstrap,html,javascript)
+
 ### Connect with me at social networks 🤝
 - instagram : https://www.instagram.com/williamramos095
 - linkedin : https://www.linkedin.com/in/william-ramos-developer/
