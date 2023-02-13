@@ -1,3 +1,4 @@
+ ![trophy](https://github-profile-trophy.vercel.app/?username=williamcostaramos)
  ![Status](./profile-3d-contrib/profile-night-view.svg)
 
 # Hi there 👋
