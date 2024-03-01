@@ -17,12 +17,23 @@ Job with Java Developer the approximation 5 years
 
 <hr>
 
+
 ### 🖥 Experencies at job current 
 - Spring boot
 - Hibernate
 - Jakarta EE
 - AngularJS
 - Angular
+- Kafka
+- Microservices
+- zookipper
+- Jira
+- confluence
+- docker
+- kubernetes
+- Sonar
+- SonarQube
+- Elastic Search
 
 <hr>
 
